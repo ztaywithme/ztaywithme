@@ -1,5 +1,5 @@
 <?php
 
-	echo "Automatic Deploy";
+	echo "Automatic Deploy 22222";
 
 ?>
